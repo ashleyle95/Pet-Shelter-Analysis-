@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/314489b6-53ae-41d6-8afe-087614613d8d)
+
 # Pet-Shelter-Analysis-
 [Project Link](https://github.com/ashleyle95/Pet-Shelter-Analysis-/blob/main/Pet_Shelter_Analysis%202.ipynb)
 # Questions:
