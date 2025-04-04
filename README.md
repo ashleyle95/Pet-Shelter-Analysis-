@@ -1,5 +1,5 @@
 # Pet-Shelter-Analysis-
-# Project Link
+[Project Link]()
 # Questions:
 - Question number 1: What is the distribution of the types of animals in the shelter?
 - Question number 2: Is there an area where more pets are found?. Find the top 5 location where pet are found
@@ -9,17 +9,9 @@
 - Question number 6: About how many animals are spayed/neutered each month? This will help the shelter allocate resources and staff. Assume that all intact males and females will be spayed/neutered.
 - Question number 7: How many animals in the shelter are repeats?, Which animal was returned to the shelter the most? This means the animal has been brought in more than once.
 - Question number 8: What are the adoption rates for different colorings? Find the top 5 colorings in the shelter (based on count) and then find the adoption percentage of each color.
-- Question number 9
-What are the adoption rates for the following age groups?
-- baby: 4 months and less
-- young: 5 months - 2 years
-- adult: 3 years - 10 years
-- senior: 11+
-- Question number 10:
-If spay/neuter for a dog costs $100 and a spay/neuter for a cat costs $50,
-how much did the shelter spend in 2015 on these procedures?
+- Question number 9: What are the adoption rates for the following age groups? baby: 4 months and less, young: 5 months - 2 years, adult: 3 years - 10 years, senior: 11+
+- Question number 10: If spay/neuter for a dog costs $100 and a spay/neuter for a cat costs $50, how much did the shelter spend in 2015 on these procedures?
 # Dataset Dictionary
-
 #### Acc_Intakes.csv 
 - Age Upon Intake: The age of the animal when it was brought to the facility
 - Animal ID: A unique identifier for each animal.
