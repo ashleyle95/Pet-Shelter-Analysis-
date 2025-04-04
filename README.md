@@ -1,5 +1,5 @@
 # Pet-Shelter-Analysis-
-[Project Link]()
+[Project Link](https://github.com/ashleyle95/Pet-Shelter-Analysis-/blob/main/Pet_Shelter_Analysis%202.ipynb)
 # Questions:
 - Question number 1: What is the distribution of the types of animals in the shelter?
 - Question number 2: Is there an area where more pets are found?. Find the top 5 location where pet are found
@@ -38,4 +38,37 @@
 - Name: The name of the animal
 - Outcome Subtype: Additional details about the outcome.
 - Outcome Type: The general category of the outcome.
-- Sex Upon Outcome: The gender and reproductive status of the animal when it left the facility. 
+- Sex Upon Outcome: The gender and reproductive status of the animal when it left the facility.
+# Findings:
+The analysis of the animal shelter's data provides valuable insights into the various aspects of animal intake, adoption, and care. Below are the key findings for each question:
+
+Distribution of Animal Types:
+The shelter primarily receives two types of animals: dogs and cats. Dogs make up a slightly higher proportion of the intake compared to cats.
+
+Top 5 Locations Where Pets Are Found:
+Certain areas have significantly higher numbers of animals found compared to others. The top 5 locations account for a large proportion of all intakes, indicating potential hotspots for stray or abandoned animals.
+
+Average Number of Pets Found Per Month (2015):
+On average, a consistent number of pets are found each month. However, there are specific months where the intake spikes, possibly due to seasonal trends or events.
+
+Ratio of Incoming Pets vs. Adopted Pets:
+The ratio shows that not all incoming pets are adopted. Understanding this disparity helps highlight areas where the shelter can improve its adoption strategies.
+
+Adoption Rates for Specific Breeds:
+Among the top 5 dog breeds, certain breeds have higher adoption rates than others. Popular or well-known breeds tend to be adopted more quickly, suggesting the need for targeted marketing for less popular breeds.
+
+Number of Animals Spayed/Neutered Each Month:
+A consistent number of spay/neuter procedures are performed each month. This data helps the shelter efficiently allocate resources and staff for these operations.
+
+Repeat Animals:
+Some animals are brought back to the shelter more than once, indicating potential issues with compatibility, behavioral problems, or other factors. Identifying these animals helps develop interventions to increase successful adoption rates.
+
+Adoption Rates by Colorings:
+Certain colorings are adopted more frequently than others. Understanding these trends can help shelters present animals more appealingly and potentially improve adoption rates.
+
+Adoption Rates by Age Groups:
+Adoption rates vary significantly across age groups, with puppies and kittens generally being adopted more quickly than adults or seniors. Tailored adoption campaigns for older animals could improve their chances of finding homes.
+
+Total Cost of Spay/Neuter Procedures in 2015:
+The total expenditure for spay/neuter procedures in 2015 is significant. Accurate budgeting and forecasting based on these figures can help the shelter plan for future expenses.
+
